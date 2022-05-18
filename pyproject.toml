@@ -1,0 +1,6 @@
+[project]
+name = "ocs-monkey"
+version = "0.1.0"
+dependencies = [
+    "kubernetes",
+]
